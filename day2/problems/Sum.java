@@ -1,5 +1,3 @@
-package day2.problems;
-
 public class Sum {
     public static void main(String[] args) {
         int n=134;

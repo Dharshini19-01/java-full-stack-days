@@ -1,5 +1,3 @@
-package day2.problems;
-
 import java.util.Scanner;
 public class Tables {
     public static void main(String[] args) {
